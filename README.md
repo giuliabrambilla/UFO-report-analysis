@@ -1,4 +1,4 @@
-# UFOS-report-analysis
+# UFO-report-analysis
 Jupyter notebook containing a data analysis of UFO sightings happened in the United States.
 
 The United States' NUFORC (National UFO Research Center) collects and serves over 100,000 reports of UFO sightings.
